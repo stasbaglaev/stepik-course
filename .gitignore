@@ -3,3 +3,4 @@
 logs/
 *.jpeg
 *.iml
+*\out
